@@ -1,0 +1,99 @@
+question,answer
+What is AI?,AI stands for Artificial Intelligence.
+What is machine learning?,Machine learning is a subset of AI.
+What is deep learning?,Deep learning uses neural networks.
+What is Python?,Python is a programming language.
+What is data science?,Data science involves data analysis.
+What is NLP?,NLP means Natural Language Processing.
+What is computer vision?,It enables machines to see images.
+What is supervised learning?,Learning with labeled data.
+What is unsupervised learning?,Learning without labeled data.
+What is reinforcement learning?,Learning via rewards and penalties.
+How to learn AI?,Start with Python and ML basics.
+What is pandas?,Pandas is a data analysis library.
+What is NumPy?,NumPy is used for numerical computing.
+What is scikit-learn?,It is a machine learning library.
+What is TensorFlow?,A deep learning framework.
+What is PyTorch?,Another deep learning framework.
+What is overfitting?,Model memorizes data too much.
+What is underfitting?,Model fails to learn patterns.
+What is accuracy?,Correct predictions percentage.
+What is precision?,Correct positive predictions.
+What is recall?,Ability to find all positives.
+What is F1 score?,Balance of precision and recall.
+What is dataset?,Collection of data.
+What is training data?,Data used to train model.
+What is testing data?,Data used to evaluate model.
+What is feature?,Input variable.
+What is label?,Output variable.
+What is regression?,Predicting continuous values.
+What is classification?,Predicting categories.
+What is clustering?,Grouping similar data.
+What is KNN?,K-Nearest Neighbors algorithm.
+What is decision tree?,Tree-based model.
+What is random forest?,Multiple decision trees.
+What is SVM?,Support Vector Machine.
+What is gradient descent?,Optimization algorithm.
+What is learning rate?,Step size in training.
+What is epoch?,One full training cycle.
+What is batch size?,Number of samples per update.
+What is bias?,Error from wrong assumptions.
+What is variance?,Error from sensitivity.
+What is big data?,Large datasets.
+What is cloud computing?,Internet-based computing.
+What is API?,Interface for communication.
+What is JSON?,Data format.
+What is HTML?,Web structure language.
+What is CSS?,Styling language.
+What is JavaScript?,Web scripting language.
+What is React?,Frontend library.
+What is Flask?,Python web framework.
+What is Django?,Full-stack web framework.
+What is SQL?,Database query language.
+What is database?,Data storage system.
+What is normalization?,Database optimization.
+What is indexing?,Faster data retrieval.
+What is cybersecurity?,Protecting systems.
+What is encryption?,Securing data.
+What is hashing?,One-way encryption.
+What is blockchain?,Distributed ledger.
+What is IoT?,Internet of Things.
+What is edge computing?,Processing near devices.
+What is DevOps?,Development + operations.
+What is Git?,Version control system.
+What is GitHub?,Code hosting platform.
+What is Agile?,Software methodology.
+What is Scrum?,Agile framework.
+What is testing?,Checking software quality.
+What is debugging?,Fixing errors.
+What is compiler?,Converts code to machine.
+What is interpreter?,Executes code line by line.
+What is operating system?,Manages hardware.
+What is Linux?,Open-source OS.
+What is Windows?,Microsoft OS.
+What is MacOS?,Apple OS.
+What is RAM?,Temporary memory.
+What is CPU?,Processor.
+What is GPU?,Graphics processor.
+What is algorithm?,Step-by-step solution.
+What is data structure?,Data organization.
+What is array?,Collection of elements.
+What is linked list?,Connected nodes.
+What is stack?,LIFO structure.
+What is queue?,FIFO structure.
+What is recursion?,Function calling itself.
+What is OOP?,Object-oriented programming.
+What is class?,Blueprint of object.
+What is object?,Instance of class.
+What is inheritance?,Reusing code.
+What is polymorphism?,Multiple forms.
+What is encapsulation?,Data hiding.
+What is abstraction?,Hiding complexity.
+What is REST API?,Web service standard.
+What is HTTP?,Web protocol.
+What is HTTPS?,Secure HTTP.
+What is URL?,Web address.
+What is DNS?,Domain system.
+What is hosting?,Deploying website.
+What is server?,Handles requests.
+What is client?,User system.
